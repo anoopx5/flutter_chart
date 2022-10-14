@@ -1,6 +1,6 @@
-# flutter_chart
+# syncfusion_flutter_chart
 
-A new Flutter project.
+Flutter chart using syncfusion package
 
 ## Getting Started
 
